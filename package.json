@@ -2,7 +2,7 @@
   "name": "company-profile1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://markuswibisono.github.io/company-profile1",
+  "homepage": "https://markuswibisono.github.io/company-profile1/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.4",
