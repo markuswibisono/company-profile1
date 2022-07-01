@@ -5,6 +5,8 @@ import NavbarPage from './Template/NavbarPage';
 import HomePage from './Template/HomePage';
 import AboutPage from './Template/AboutPage';
 import TeamsPage from './Template/TeamsPage';
+import PortofolioPage from './Template/PortofolioPage';
+
 import reportWebVitals from './reportWebVitals';
 
 
@@ -15,6 +17,8 @@ root.render(
     <HomePage />
     <AboutPage />
     <TeamsPage />
+    <PortofolioPage />
+
   </React.StrictMode>
 );
 
