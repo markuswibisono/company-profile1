@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c49ef4fc.css",
+    "main.js": "/static/js/main.6531ecd2.js",
+    "static/js/787.4f3a0479.chunk.js": "/static/js/787.4f3a0479.chunk.js",
+    "static/media/ruangkantor.jpg": "/static/media/ruangkantor.028a6994f2c61bb8dccf.jpg",
+    "static/media/dashboard-banner.jpg": "/static/media/dashboard-banner.42216018bd702af38fa1.jpg",
+    "static/media/foto_profil.jpg": "/static/media/foto_profil.11a552b49b83aa7b0c01.jpg",
+    "static/media/kotlin-logo.png": "/static/media/kotlin-logo.4cdb1e9d736dcfbeba3b.png",
+    "static/media/ci-logo.png": "/static/media/ci-logo.89b140d7145349f2cd5d.png",
+    "static/media/react-js-logo.png": "/static/media/react-js-logo.cea1e95dbec355de1121.png",
+    "static/media/mysql-logo.jpg": "/static/media/mysql-logo.052d34f0a3138fa71b45.jpg",
+    "static/media/phone2.png": "/static/media/phone2.b8f3cda8f1586f63e555.png",
+    "index.html": "/index.html",
+    "main.c49ef4fc.css.map": "/static/css/main.c49ef4fc.css.map",
+    "main.6531ecd2.js.map": "/static/js/main.6531ecd2.js.map",
+    "787.4f3a0479.chunk.js.map": "/static/js/787.4f3a0479.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49ef4fc.css",
+    "static/js/main.6531ecd2.js"
+  ]
+}
