@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import NavbarPage from './Template/NavbarPage';
 import HomePage from './Template/HomePage';
+import AboutPage from './Template/AboutPage';
+import TeamsPage from './Template/TeamsPage';
 import reportWebVitals from './reportWebVitals';
 
 
@@ -11,6 +13,8 @@ root.render(
   <React.StrictMode>
     <NavbarPage />
     <HomePage />
+    <AboutPage />
+    <TeamsPage />
   </React.StrictMode>
 );
 

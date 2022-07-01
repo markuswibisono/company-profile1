@@ -24,11 +24,12 @@ function NavbarPage() {
           <Nav style={{marginRight:'5rem'}} className="float-right">
             <Nav.Link href="#home"><b>Home</b></Nav.Link>
             <Nav.Link href="#features"><b>About</b></Nav.Link>
+            <Nav.Link href="#features"><b>Teams</b></Nav.Link>
+            <Nav.Link href="#features"><b>Portofolio</b></Nav.Link>
+            <Nav.Link href="#features"><b>Contact</b></Nav.Link>
           </Nav>
         </Container>
       </Navbar>
-
-
     </>
   );
 }
