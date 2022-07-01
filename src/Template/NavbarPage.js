@@ -5,18 +5,30 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 
+import backgroundPhone from "../assets/phone2.png";
+
 function NavbarPage() {
+
   return (
     <>
+
       <Navbar bg="primary" variant="dark">
         <Container>
-          <Navbar.Brand href="#home">KekinianTeknologi</Navbar.Brand>
-          <Nav className="me-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#features">About</Nav.Link>
+          <span style={{color:'white'}}> <img  style={{  width: '2rem', height: '2rem'  }}  src={backgroundPhone} /> &nbsp;Contact: 08881283981 </span>
+        </Container>
+      </Navbar>
+
+      <Navbar style={{  marginTop: '2rem' }} bg="light">
+        <Container>
+          <Navbar.Brand href="#home" style={{color:'blue'}}>KekinianTeknologi</Navbar.Brand>
+          <Nav style={{marginRight:'5rem'}} className="float-right">
+            <Nav.Link href="#home"><b>Home</b></Nav.Link>
+            <Nav.Link href="#features"><b>About</b></Nav.Link>
           </Nav>
         </Container>
       </Navbar>
+
+
     </>
   );
 }
