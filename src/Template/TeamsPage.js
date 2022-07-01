@@ -16,7 +16,7 @@ function TeamsPage() {
         <div style={{ marginLeft: '2rem' }}>
             <Card class="shadow-sm p-3 mb-5 bg-white rounded" style={{ width: '100rem' }}>
                 <div  style={{ marginLeft: '32rem', marginTop: '2rem'  }}>
-                  <img src={profilTeams} width="10%" height="5%" />
+                  <img src={profilTeams} width="30%" height="20%" />
                 </div>
                   <Card.Body style={{ marginLeft: '30rem' }}>
                       <Card.Title>Developer</Card.Title>
