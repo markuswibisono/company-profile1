@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.c49ef4fc.css",
-    "main.js": "/react-gh-pages/static/js/main.4d61d2a8.js",
-    "static/js/787.4f3a0479.chunk.js": "/react-gh-pages/static/js/787.4f3a0479.chunk.js",
-    "static/media/ruangkantor.jpg": "/react-gh-pages/static/media/ruangkantor.028a6994f2c61bb8dccf.jpg",
-    "static/media/dashboard-banner.jpg": "/react-gh-pages/static/media/dashboard-banner.42216018bd702af38fa1.jpg",
-    "static/media/foto_profil.jpg": "/react-gh-pages/static/media/foto_profil.11a552b49b83aa7b0c01.jpg",
-    "static/media/kotlin-logo.png": "/react-gh-pages/static/media/kotlin-logo.4cdb1e9d736dcfbeba3b.png",
-    "static/media/ci-logo.png": "/react-gh-pages/static/media/ci-logo.89b140d7145349f2cd5d.png",
-    "static/media/react-js-logo.png": "/react-gh-pages/static/media/react-js-logo.cea1e95dbec355de1121.png",
-    "static/media/mysql-logo.jpg": "/react-gh-pages/static/media/mysql-logo.052d34f0a3138fa71b45.jpg",
-    "static/media/phone2.png": "/react-gh-pages/static/media/phone2.b8f3cda8f1586f63e555.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.c49ef4fc.css.map": "/react-gh-pages/static/css/main.c49ef4fc.css.map",
-    "main.4d61d2a8.js.map": "/react-gh-pages/static/js/main.4d61d2a8.js.map",
-    "787.4f3a0479.chunk.js.map": "/react-gh-pages/static/js/787.4f3a0479.chunk.js.map"
+    "main.css": "/company-profile1/static/css/main.c49ef4fc.css",
+    "main.js": "/company-profile1/static/js/main.f30a96f2.js",
+    "static/js/787.4f3a0479.chunk.js": "/company-profile1/static/js/787.4f3a0479.chunk.js",
+    "static/media/ruangkantor.jpg": "/company-profile1/static/media/ruangkantor.028a6994f2c61bb8dccf.jpg",
+    "static/media/dashboard-banner.jpg": "/company-profile1/static/media/dashboard-banner.42216018bd702af38fa1.jpg",
+    "static/media/foto_profil.jpg": "/company-profile1/static/media/foto_profil.11a552b49b83aa7b0c01.jpg",
+    "static/media/kotlin-logo.png": "/company-profile1/static/media/kotlin-logo.4cdb1e9d736dcfbeba3b.png",
+    "static/media/ci-logo.png": "/company-profile1/static/media/ci-logo.89b140d7145349f2cd5d.png",
+    "static/media/react-js-logo.png": "/company-profile1/static/media/react-js-logo.cea1e95dbec355de1121.png",
+    "static/media/mysql-logo.jpg": "/company-profile1/static/media/mysql-logo.052d34f0a3138fa71b45.jpg",
+    "static/media/phone2.png": "/company-profile1/static/media/phone2.b8f3cda8f1586f63e555.png",
+    "index.html": "/company-profile1/index.html",
+    "main.c49ef4fc.css.map": "/company-profile1/static/css/main.c49ef4fc.css.map",
+    "main.f30a96f2.js.map": "/company-profile1/static/js/main.f30a96f2.js.map",
+    "787.4f3a0479.chunk.js.map": "/company-profile1/static/js/787.4f3a0479.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c49ef4fc.css",
-    "static/js/main.4d61d2a8.js"
+    "static/js/main.f30a96f2.js"
   ]
 }
