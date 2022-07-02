@@ -1,11 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import NavbarPage from './Template/NavbarPage';
-import HomePage from './Template/HomePage';
-import AboutPage from './Template/AboutPage';
-import TeamsPage from './Template/TeamsPage';
-import PortofolioPage from './Template/PortofolioPage';
+
+import TestPage from './Template/TestPage';
+
 
 import reportWebVitals from './reportWebVitals';
 
@@ -13,12 +11,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <NavbarPage />
-    <HomePage />
-    <AboutPage />
-    <TeamsPage />
-    <PortofolioPage />
-
+        <TestPage />
   </React.StrictMode>
 );
 
