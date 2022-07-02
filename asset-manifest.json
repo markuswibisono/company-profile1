@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/testing/static/css/main.f2916f14.css",
-    "main.js": "/testing/static/js/main.21dbac46.js",
-    "static/js/787.4f3a0479.chunk.js": "/testing/static/js/787.4f3a0479.chunk.js",
-    "static/media/boxicons.svg": "/testing/static/media/boxicons.2932c34d456522282808.svg",
-    "static/media/boxicons.eot": "/testing/static/media/boxicons.c324d2b5569fb2c20e5d.eot",
-    "static/media/boxicons.woff": "/testing/static/media/boxicons.6ee3db6f8674524d7716.woff",
-    "static/media/boxicons.ttf": "/testing/static/media/boxicons.426af27b46d4c8a018df.ttf",
-    "static/media/hero-bg.jpg": "/testing/static/media/hero-bg.42216018bd702af38fa1.jpg",
-    "static/media/testimonials-bg.jpg": "/testing/static/media/testimonials-bg.b5a6189eb5ae7a6d81aa.jpg",
-    "static/media/bootstrap-icons.woff?": "/testing/static/media/bootstrap-icons.ea6f3dfe4ebb15134576.woff",
-    "static/media/boxicons.woff2": "/testing/static/media/boxicons.af4cc70871df09d7cbb2.woff2",
-    "static/media/bootstrap-icons.woff2?": "/testing/static/media/bootstrap-icons.66e4109ec6241c76fdcf.woff2",
-    "index.html": "/testing/index.html",
-    "main.f2916f14.css.map": "/testing/static/css/main.f2916f14.css.map",
-    "main.21dbac46.js.map": "/testing/static/js/main.21dbac46.js.map",
-    "787.4f3a0479.chunk.js.map": "/testing/static/js/787.4f3a0479.chunk.js.map"
+    "main.css": "/company-profile1/static/css/main.23a4712c.css",
+    "main.js": "/company-profile1/static/js/main.141cc23b.js",
+    "static/js/787.4f3a0479.chunk.js": "/company-profile1/static/js/787.4f3a0479.chunk.js",
+    "static/media/boxicons.svg": "/company-profile1/static/media/boxicons.2932c34d456522282808.svg",
+    "static/media/boxicons.eot": "/company-profile1/static/media/boxicons.c324d2b5569fb2c20e5d.eot",
+    "static/media/boxicons.woff": "/company-profile1/static/media/boxicons.6ee3db6f8674524d7716.woff",
+    "static/media/boxicons.ttf": "/company-profile1/static/media/boxicons.426af27b46d4c8a018df.ttf",
+    "static/media/hero-bg.jpg": "/company-profile1/static/media/hero-bg.42216018bd702af38fa1.jpg",
+    "static/media/testimonials-bg.jpg": "/company-profile1/static/media/testimonials-bg.b5a6189eb5ae7a6d81aa.jpg",
+    "static/media/bootstrap-icons.woff?": "/company-profile1/static/media/bootstrap-icons.ea6f3dfe4ebb15134576.woff",
+    "static/media/boxicons.woff2": "/company-profile1/static/media/boxicons.af4cc70871df09d7cbb2.woff2",
+    "static/media/bootstrap-icons.woff2?": "/company-profile1/static/media/bootstrap-icons.66e4109ec6241c76fdcf.woff2",
+    "index.html": "/company-profile1/index.html",
+    "main.23a4712c.css.map": "/company-profile1/static/css/main.23a4712c.css.map",
+    "main.141cc23b.js.map": "/company-profile1/static/js/main.141cc23b.js.map",
+    "787.4f3a0479.chunk.js.map": "/company-profile1/static/js/787.4f3a0479.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2916f14.css",
-    "static/js/main.21dbac46.js"
+    "static/css/main.23a4712c.css",
+    "static/js/main.141cc23b.js"
   ]
 }
