@@ -1,7 +1,7 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-
+import {  Container, Row } from 'react-bootstrap';
 function PortofolioPage() {
 
   return (
