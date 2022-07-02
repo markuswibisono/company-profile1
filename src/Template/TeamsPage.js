@@ -16,7 +16,7 @@ function TeamsPage() {
         <div style={{ marginLeft: '2rem' }}>
             <Card class="shadow-sm p-3 mb-5 bg-white rounded" style={{ width: '100rem' }}>
                   <Card.Body style={{ marginLeft: '30rem' }}>
-                      <Card.Title>Developer</Card.Title>
+                      <Card.Title>Developersss</Card.Title>
                       <Card.Text>
                         Markus Wibisono
                       </Card.Text>
