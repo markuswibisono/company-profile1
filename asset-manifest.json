@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/company-profile1/static/css/main.2fb682ec.css",
-    "main.js": "/company-profile1/static/js/main.1620f37f.js",
+    "main.css": "/company-profile1/static/css/main.23a4712c.css",
+    "main.js": "/company-profile1/static/js/main.e4dd2154.js",
     "static/js/787.4f3a0479.chunk.js": "/company-profile1/static/js/787.4f3a0479.chunk.js",
     "static/media/boxicons.svg": "/company-profile1/static/media/boxicons.2932c34d456522282808.svg",
     "static/media/boxicons.eot": "/company-profile1/static/media/boxicons.c324d2b5569fb2c20e5d.eot",
@@ -17,12 +17,12 @@
     "static/media/react-js-logo.png": "/company-profile1/static/media/react-js-logo.cea1e95dbec355de1121.png",
     "static/media/mysql-logo.jpg": "/company-profile1/static/media/mysql-logo.052d34f0a3138fa71b45.jpg",
     "index.html": "/company-profile1/index.html",
-    "main.2fb682ec.css.map": "/company-profile1/static/css/main.2fb682ec.css.map",
-    "main.1620f37f.js.map": "/company-profile1/static/js/main.1620f37f.js.map",
+    "main.23a4712c.css.map": "/company-profile1/static/css/main.23a4712c.css.map",
+    "main.e4dd2154.js.map": "/company-profile1/static/js/main.e4dd2154.js.map",
     "787.4f3a0479.chunk.js.map": "/company-profile1/static/js/787.4f3a0479.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fb682ec.css",
-    "static/js/main.1620f37f.js"
+    "static/css/main.23a4712c.css",
+    "static/js/main.e4dd2154.js"
   ]
 }
