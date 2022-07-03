@@ -1,5 +1,4 @@
 
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 import '../assets/vendor/aos/aos.css';
 import '../assets/vendor/bootstrap/css/bootstrap.min.css';
@@ -9,24 +8,24 @@ import '../assets/vendor/glightbox/css/glightbox.min.css';
 import '../assets/vendor/swiper/swiper-bundle.min.css';
 import '../assets/css/style.css';
 
-import { Card, Button, Container, Row, Col, Nav, Navbar, NavLink  } from 'react-bootstrap';
+import { Card, Button, Container, Row, Col, Nav, Navbar  } from 'react-bootstrap';
 
 
 
-import backgroundCard2 from "../assets/kotlin-logo.png";
+import backgroundCard2 from "../assets/img/kotlin-logo.png";
 
-import backgroundCard3 from "../assets/react-js-logo.png";
+import backgroundCard3 from "../assets/img/react-js-logo.png";
 
-import backgroundCard4 from "../assets/mysql-logo.jpg";
+import backgroundCard4 from "../assets/img/mysql-logo.jpg";
 
-import backgroundCard5 from "../assets/ci-logo.png";
+import backgroundCard5 from "../assets/img/ci-logo.png";
 
 function HomePage() {
 
   return (
     <>
-
-<section id="topbar" className ="d-flex align-items-center">
+  
+    <section id="topbar" className ="d-flex align-items-center">
         <div className ="container d-flex justify-content-center justify-content-md-between">
             <div className="contact-info d-flex align-items-center">
             <i className="bi bi-phone d-flex align-items-center ms-4"><span>08881283981</span></i>
