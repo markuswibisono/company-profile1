@@ -9,13 +9,34 @@ import '../assets/css/style.css';
 
 import { Card, Button, Container, Row, Col, Nav, Navbar, NavLink  } from 'react-bootstrap';
 
+import ruangKantor from "../assets/img/ruangkantor.jpg";
+
 function AboutPage() {
 
   return (
     <>
+      <Container style={{ marginTop: '5rem' }}>
+
+          <Card.Title style={{ color: 'blue' }}>About</Card.Title>
+            <br/>
+            <br/>
+            <Row xs={2} md={3}>
+              <Col>
+                  <img src={ruangKantor} width="100%" height="50%" />
+              </Col>
+              <Col>
+                Perusahaan kami menyediakaan jasa pembuataan web dan aplikasi android<br />
+                yang mencakup: <br />
+              <ul>
+                <li>Web Company Profile</li>
+                <li>Web Data Management</li>
+                <li>Aplikasi Android <br />untuk mendukung management</li>
+              </ul>
+              </Col>
+           </Row>
+      </Container>
 
 
-        
     </>
   );
 }
