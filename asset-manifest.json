@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/company-profile1/static/css/main.23a4712c.css",
-    "main.js": "/company-profile1/static/js/main.141cc23b.js",
+    "main.css": "/company-profile1/static/css/main.2fb682ec.css",
+    "main.js": "/company-profile1/static/js/main.1620f37f.js",
     "static/js/787.4f3a0479.chunk.js": "/company-profile1/static/js/787.4f3a0479.chunk.js",
     "static/media/boxicons.svg": "/company-profile1/static/media/boxicons.2932c34d456522282808.svg",
     "static/media/boxicons.eot": "/company-profile1/static/media/boxicons.c324d2b5569fb2c20e5d.eot",
@@ -11,14 +11,18 @@
     "static/media/testimonials-bg.jpg": "/company-profile1/static/media/testimonials-bg.b5a6189eb5ae7a6d81aa.jpg",
     "static/media/bootstrap-icons.woff?": "/company-profile1/static/media/bootstrap-icons.ea6f3dfe4ebb15134576.woff",
     "static/media/boxicons.woff2": "/company-profile1/static/media/boxicons.af4cc70871df09d7cbb2.woff2",
+    "static/media/kotlin-logo.png": "/company-profile1/static/media/kotlin-logo.4cdb1e9d736dcfbeba3b.png",
+    "static/media/ci-logo.png": "/company-profile1/static/media/ci-logo.89b140d7145349f2cd5d.png",
     "static/media/bootstrap-icons.woff2?": "/company-profile1/static/media/bootstrap-icons.66e4109ec6241c76fdcf.woff2",
+    "static/media/react-js-logo.png": "/company-profile1/static/media/react-js-logo.cea1e95dbec355de1121.png",
+    "static/media/mysql-logo.jpg": "/company-profile1/static/media/mysql-logo.052d34f0a3138fa71b45.jpg",
     "index.html": "/company-profile1/index.html",
-    "main.23a4712c.css.map": "/company-profile1/static/css/main.23a4712c.css.map",
-    "main.141cc23b.js.map": "/company-profile1/static/js/main.141cc23b.js.map",
+    "main.2fb682ec.css.map": "/company-profile1/static/css/main.2fb682ec.css.map",
+    "main.1620f37f.js.map": "/company-profile1/static/js/main.1620f37f.js.map",
     "787.4f3a0479.chunk.js.map": "/company-profile1/static/js/787.4f3a0479.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23a4712c.css",
-    "static/js/main.141cc23b.js"
+    "static/css/main.2fb682ec.css",
+    "static/js/main.1620f37f.js"
   ]
 }
