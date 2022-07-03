@@ -92,8 +92,6 @@ function HomePage() {
             </Col>
           </Row>
       </Container>
-
-      
     </>
 
   );
