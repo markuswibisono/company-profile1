@@ -7,7 +7,7 @@ import '../assets/vendor/glightbox/css/glightbox.min.css';
 import '../assets/vendor/swiper/swiper-bundle.min.css';
 import '../assets/css/style.css';
 
-import { Card, Button, Container, Row, Col, Nav, Navbar, NavLink  } from 'react-bootstrap';
+import { Card, Container, Row, Col  } from 'react-bootstrap';
 
 import ruangKantor from "../assets/img/ruangkantor.jpg";
 
@@ -35,8 +35,6 @@ function AboutPage() {
               </Col>
            </Row>
       </Container>
-
-
     </>
   );
 }

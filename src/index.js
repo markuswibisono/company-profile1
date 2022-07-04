@@ -7,6 +7,8 @@ import HomePage from './Template/HomePage';
 
 import AboutPage from './Template/AboutPage';
 
+import TeamsPage from './Template/TeamsPage';
+
 import reportWebVitals from './reportWebVitals';
 
 
@@ -15,6 +17,7 @@ root.render(
   <React.StrictMode>
     <HomePage />  
     <AboutPage />
+    <TeamsPage />
   </React.StrictMode>
 );
 

@@ -1,28 +1,23 @@
 
-import 'bootstrap/dist/css/bootstrap.min.css';
 
-import { Card } from 'react-bootstrap';
+import '../assets/vendor/aos/aos.css';
+import '../assets/vendor/bootstrap/css/bootstrap.min.css';
+import '../assets/vendor/bootstrap-icons/bootstrap-icons.css';
+import '../assets/vendor/boxicons/css/boxicons.min.css';
+import '../assets/vendor/glightbox/css/glightbox.min.css';
+import '../assets/vendor/swiper/swiper-bundle.min.css';
+import '../assets/css/style.css';
 
-import profilTeams from "../assets/foto_profil.jpg";
+
+import { Container, Card } from 'react-bootstrap';
 
 function TeamsPage() {
 
   return (
     <>
-        <div  style={{ marginLeft: '36rem', color:'blue', fontSize: '20px', marginTop: '5rem' }}>
-          Teams
-        </div>
-        <br />
-        <div style={{ marginLeft: '2rem' }}>
-            <Card class="shadow-sm p-3 mb-5 bg-white rounded" style={{ width: '100rem' }}>
-                  <Card.Body style={{ marginLeft: '30rem' }}>
-                      <Card.Title>Developersss</Card.Title>
-                      <Card.Text>
-                        Markus Wibisono
-                      </Card.Text>
-                </Card.Body>
-              </Card>
-        </div>
+        <Container>
+            <Card.Title style={{ color: 'blue' }}>Team</Card.Title>
+        </Container>
     </>
   );
 }
