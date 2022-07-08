@@ -7,7 +7,7 @@ import '../assets/vendor/glightbox/css/glightbox.min.css';
 import '../assets/vendor/swiper/swiper-bundle.min.css';
 import '../assets/css/style.css';
 
-import { Card, Container, Row, Col  } from 'react-bootstrap';
+import { Card, Container, Row, Col, ListGroup  } from 'react-bootstrap';
 
 import ruangKantor from "../assets/img/ruangkantor.jpg";
 
@@ -16,24 +16,28 @@ function AboutPage() {
   return (
     <>
       <Container style={{ marginTop: '5rem' }}>
-
-          <Card.Title style={{ color: 'blue' }}>About</Card.Title>
-            <br/>
-            <br/>
+      <Card.Title style={{ color: 'blue' }}>About</Card.Title>
+            <br />
             <Row xs={2} md={3}>
               <Col>
-                  <img src={ruangKantor} width="100%" height="50%" />
+              <Card style={{ width: '18rem' }}>
+                <Card.Img variant="top" src={ruangKantor}  />
+                <Card.Body>
+                  <Card.Text>
+                      Perusahaan kami menyediakaan jasa pembuataan web dan aplikasi android<br />
+                    yang mencakup: 
+                    <br />
+                    <br />
+                    <ListGroup>
+                      <ListGroup.Item>Web Company Profile</ListGroup.Item>
+                      <ListGroup.Item>Web Data Management</ListGroup.Item>
+                      <ListGroup.Item>Aplikasi Android <br />untuk mendukung management</ListGroup.Item>
+                  </ListGroup>
+                  </Card.Text>
+                </Card.Body>
+              </Card>
               </Col>
-              <Col>
-                Perusahaan kami menyediakaan jasa pembuataan web dan aplikasi android<br />
-                yang mencakup: <br />
-              <ul>
-                <li>Web Company Profile</li>
-                <li>Web Data Management</li>
-                <li>Aplikasi Android <br />untuk mendukung management</li>
-              </ul>
-              </Col>
-           </Row>
+          </Row>
       </Container>
     </>
   );

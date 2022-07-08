@@ -2,22 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 
-
-import HomePage from './Template/HomePage';
-
-import AboutPage from './Template/AboutPage';
-
-import TeamsPage from './Template/TeamsPage';
-
+import Routes from './Routes';
 import reportWebVitals from './reportWebVitals';
+
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <HomePage />  
-    <AboutPage />
-    <TeamsPage />
+      <Routes />
   </React.StrictMode>
 );
 

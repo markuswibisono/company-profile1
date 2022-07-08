@@ -8,36 +8,35 @@ import '../assets/vendor/glightbox/css/glightbox.min.css';
 import '../assets/vendor/swiper/swiper-bundle.min.css';
 import '../assets/css/style.css';
 
+import { Card, Container, Row, Col  } from 'react-bootstrap';
 
-import { Container, Card,  Row, Col} from 'react-bootstrap';
+import tempatkantor from "../assets/img/summarecon-logo.jpg";
 
-import fotoProfil from "../assets/img/foto_profil2.jpg";
-
-function TeamsPage() {
+function ContactPage() {
 
   return (
     <>
-        <Container style={{ marginTop: '5rem' }}>
-            <Card.Title style={{ color: 'blue' }}>Team</Card.Title>
+      <Container style={{ marginTop: '5rem' }}>
+      <Card.Title style={{ color: 'blue' }}>Contact</Card.Title>
             <br />
             <Row xs={2} md={3}>
               <Col>
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src={fotoProfil}  />
+                 <Card.Img variant="top" src={tempatkantor}  />
                 <Card.Body>
-                  <Card.Title>Programmer</Card.Title>
                   <Card.Text>
-                        Nama : Markus Wibisono <br />
-                        Contact : 08881283981 <br />
-                        Email : markuswibisono@outlook.co.id
+                        Apartemen Springlake Summarecon Bekasi, Jl. Bulevar Ahmad Yani,
+                         RT.005/RW.003, Marga Mulya, Kec. Bekasi Utara, 
+                         Kota Bks, Jawa Barat 17142
                   </Card.Text>
                 </Card.Body>
               </Card>
               </Col>
           </Row>
-        </Container>
+      </Container>
     </>
+
   );
 }
 
-export default TeamsPage;
+export default ContactPage;

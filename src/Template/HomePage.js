@@ -10,7 +10,7 @@ import '../assets/css/style.css';
 
 import { Card, Button, Container, Row, Col, Nav, Navbar  } from 'react-bootstrap';
 
-
+import { Link } from 'react-router-dom';
 
 import backgroundCard2 from "../assets/img/kotlin-logo.png";
 
@@ -24,23 +24,6 @@ function HomePage() {
 
   return (
     <>
-    <section id="topbar" className ="d-flex align-items-center">
-        <div className ="container d-flex justify-content-center justify-content-md-between">
-            <div className="contact-info d-flex align-items-center">
-            <i className="bi bi-phone d-flex align-items-center ms-4"><span>08881283981</span></i>
-          </div>
-        </div>
-    </section>
-    <Navbar bg="dark" variant="dark">
-      <Container>
-      <Nav className="me-auto">
-        <Nav.Link href="#home">Home</Nav.Link>
-        <Nav.Link href="#about">About</Nav.Link>
-        <Nav.Link href="#team">Team</Nav.Link>
-        <Nav.Link href="#contact">Contact</Nav.Link>
-      </Nav>
-      </Container>
-    </Navbar>
         <Card>
           <Card.Body style={{ marginLeft: '4rem' }}>
             <Card.Title><b>Selamat Datang di </b><span style={{ color: 'blue' }}>KekinianTeknologi.</span></Card.Title>
